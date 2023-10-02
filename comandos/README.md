@@ -15,3 +15,4 @@ git init
 git add .
 git commit -m 'Mensagem'
 git remote add origin URL_DO_GIT
+oi teste
